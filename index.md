@@ -12,6 +12,7 @@ layout: default
 
 {% include 03-links.md %}
 
+add-lists-emphasis
 <br>
 
 {% include 04-lists.md %}
@@ -19,3 +20,6 @@ layout: default
 <br>
 
 {% include 05-emphasis.md %}
+_includes/02-image.md
+alt-text
+ main
